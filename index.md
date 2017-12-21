@@ -8,6 +8,7 @@ In 3 years, To become a intermediate DN expert of Application scenario is my car
 ## REPOSITORIES LIST
 1. [2017_Industrial_Bigdata_Innovation_Competition](https://github.com/Bingohong/2017-Industrial-Bigdata)
 2. [2017_data_news_competition_works_dydata](https://github.com/Bingohong/data_news.github.com)
-
+3. [Data_Strcuture Utilizing Python](https://github.com/Bingohong/Data_Structure_Pyhon/tree/master)
+4. [CNN visualization](https://github.com/Bingohong/tf_cnnvis)
 
 # Please look forward to update!~~~
