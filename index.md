@@ -25,7 +25,7 @@ To become a intermediate DataMining expert of Application scenario is my career 
 6. [石油工程领域数据挖掘探索](https://github.com/Bingohong/PE-DataMining)
 7. [组归一化(GroupNormalization)](https://github.com/Bingohong/GroupNormalization-tensorflow-keras)
 8. [自适配归一化(SwitchableNormalization)](https://github.com/Bingohong/SwitchableNormalization-Keras)
-9. [2017年工业大数据创新大赛](https://github.com/Bingohong/2018-Industrial-Bigdata)
+9. [2018年工业大数据创新大赛](https://github.com/Bingohong/2018-Industrial-Bigdata)
 
 ## 知乎
 [bingoHong](https://www.zhihu.com/people/bingo-hong-36/activities)
